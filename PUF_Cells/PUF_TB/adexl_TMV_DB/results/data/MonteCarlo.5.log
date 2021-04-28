@@ -1,0 +1,13 @@
+Starting Monte Carlo Sampling...
+
+Current time: Sun Apr 18 07:42:09 2021 
+MonteCarlo.5
+Number of points completed: 1
+Number of simulation errors: 1
+MonteCarlo.5 completed. 
+Current time: Sun Apr 18 07:47:44 2021 
+Monte Carlo Sampling yield summary:
+Number of spec values are in this yield data: 0
+
+Estimated yield = 0% (0/0), 0 errors
+Estimated yield (No opregions) = 0% (0/0)

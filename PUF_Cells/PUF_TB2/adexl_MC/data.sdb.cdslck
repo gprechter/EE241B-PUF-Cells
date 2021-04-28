@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ee241-aaf
+HostName                       eda-6.EECS.Berkeley.EDU
+ProcessIdentifier              23738
+ProcessCreationTime_UTC        1618714008
+ProcessCreationTime_Readable   Sat Apr 17 19:46:48 2021 PDT
+AppIdentifier                  /share/instsww/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /scratch/ee241-aaf/chipyard/vlsi/Project/PUF_Cells/PUF_TB2/adexl_MC/data.sdb
+TimeEditLocked                 Wed Apr 21 22:01:50 2021 PDT
